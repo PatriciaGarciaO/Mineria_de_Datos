@@ -7,3 +7,5 @@
 [Ejercicios 1](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Ejercicios1_2_003.ipynb)
 
 [Resumenes Tecnicas de Mineria](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Resumenes_1931549.pdf)
+
+[Mapa Mental 2](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/MapaMental2_1931549.pdf)
