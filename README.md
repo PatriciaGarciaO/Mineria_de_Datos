@@ -9,3 +9,5 @@
 [Resumenes Tecnicas de Mineria](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Resumenes_1931549.pdf)
 
 [Mapa Mental 2](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/MapaMental2_1931549.pdf)
+
+[Modelo de Mineria de Datos] (https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Modelos%20de%20mineria%20de%20datos.pdf)
