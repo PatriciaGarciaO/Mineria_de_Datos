@@ -10,4 +10,5 @@
 
 [Mapa Mental 2](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/MapaMental2_1931549.pdf)
 
-[Modelo de Mineria de Datos] (https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Modelos%20de%20mineria%20de%20datos.pdf)
+[Modelo de Mineria de Datos](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Modelos%20de%20mineria%20de%20datos.pdf)
+
