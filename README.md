@@ -17,3 +17,5 @@
 [Modelo de Mineria de Datos](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Modelos%20de%20mineria%20de%20datos.pdf)
 
 [Ejercicios Basicos de Python](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Ejercicos_Basicos_Python_1931549.ipynb)
+
+[Primer Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Avance1-PIA_Equipo9_003.pdf)
