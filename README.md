@@ -19,3 +19,5 @@
 [Ejercicios Basicos de Python](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Ejercicos_Basicos_Python_1931549.ipynb)
 
 [Primer Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Avance1-PIA_Equipo9_003.pdf)
+
+[Segundo Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/AvancePIA_ll_003_09.ipynb)
