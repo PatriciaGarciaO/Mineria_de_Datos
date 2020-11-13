@@ -25,3 +25,4 @@
 [Practica 2 - Visualización](https://github.com/ZugeyCastillo/Mineria-de-datos/blob/master/TrabajandoBD2_1676950.ipynb)
 
 [Segundo Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/AvancePIA_ll_003_09.ipynb)
+
