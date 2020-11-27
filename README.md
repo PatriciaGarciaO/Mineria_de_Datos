@@ -27,4 +27,4 @@
 [Segundo Avance PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/AvancePIA_ll_003_09.ipynb)
 
 ## Fase 3
-[Graficas PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Graficas%20PIA.ipynb)
+[Gráficas PIA](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Graficas%20PIA.ipynb)
