@@ -31,5 +31,5 @@
 
 [PIA Codigo](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/PIA_003_Equipo09%20(1).ipynb)
 
-[PIA Poster](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/Poster_Equipo09_Grupo003.pdf)
+[PIA Poster](https://github.com/PatriciaGarciaO/Mineria_de_Datos/blob/master/PIA_003_Equipo09%20(2).ipynb)
 
